@@ -55,4 +55,5 @@ keys.env
 # Firebase / Google config (API keys, project IDs)
 **/google-services.json
 **/GoogleService-Info.plist
+ios/Runner/GoogleService-Info.plist
 **/firebase_app_id_file.json
